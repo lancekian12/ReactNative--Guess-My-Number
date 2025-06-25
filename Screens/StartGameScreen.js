@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.25,
   },
   numberInput: {
-    height: 50,
+    height: 60,
     width: 50,
     fontSize: 32,
     borderBottomColor: "#ddb52f",
