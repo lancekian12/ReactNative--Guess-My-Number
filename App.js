@@ -14,6 +14,7 @@ export default function App() {
 
   function pickNumberHandler(pickedNumber) {
     setUserNumber(pickedNumber);
+    setGameIsOver(false);
   }
 
   function gameOverHandler() {
